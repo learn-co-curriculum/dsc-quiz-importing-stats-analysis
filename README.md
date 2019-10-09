@@ -20,7 +20,7 @@ x.count(3)
 ( ) `len` is a method but `count` is a function   
 ( ) Both are methods   
 ( ) Both are functions   
-( ) `len` is a function but `count` is a method    
+(X) `len` is a function but `count` is a method    
 
 
 ?: What is the output of this code? 
