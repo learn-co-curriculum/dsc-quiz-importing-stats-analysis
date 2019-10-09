@@ -27,6 +27,8 @@ x.count(3)
 
 ```python
 
+sport = 'football'
+
 def greeting():
     sport =  'badminton'
     return 'Hello neighbor! Do you want to play {}?'.format(sport)
@@ -36,8 +38,9 @@ print('Hello neighbor! Do you want to play {}?'.format(sport))
 
 
 ( ) 'Hello neighbor! Do you want to play badminton?' 
-(X) An error
-( ) 'Hello neighbor! Do you want to play {}?'.format(sport)
+( ) An error
+( ) 'Hello neighbor! Do you want to play {}?'.format(sport) 
+(X) 'Hello neighbor! Do you want to play football?'
 
 
 ?: The function `greater_number()` takes two arguments, `x` and `y`, and returns the greater between the two numbers. Fill in the blank to complete the function header. 
