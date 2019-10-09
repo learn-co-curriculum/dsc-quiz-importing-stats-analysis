@@ -2,7 +2,26 @@
 
 We recommend you **do not** use Python to answer these questions. Instead, based on what you have learned in this section, _reason_ the code to choose an expected answer. 
 
-# User-defined functions, measures of central tendency and dispersion
+# Functions, methods, central tendency, and dispersion
+
+? Based on the following commands, what are `len` and `count`?
+
+```python
+x = [1, 2, 3, 4, 2, 1, 3] 
+
+len(x)
+7
+
+x.count(3)
+2
+```
+
+( ) Keywords    
+( ) `len` is a method but `count` is a function   
+( ) Both are methods   
+( ) Both are functions   
+( ) `len` is a function but `count` is a method    
+
 
 ?: What is the output of this code? 
 
