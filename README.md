@@ -115,22 +115,10 @@ Out of the mean, median, and mode, which is most sensitive to outliers in the da
 
 The summary statistics for two samples of data are: 
 
-**Sample 1**  
-
-
-|Mean   |Variance   |
-|---|---|
-|10   |5   |
-
-
-
-**Sample 2**  
-
-
-|Mean   |Variance   |
-|---|---|
-|10   |10   |
-
+|   |Mean   |Variance   |
+|---|---|---|
+|Sample 1|10   |5   |
+|Sample 2|10   |10   |
 
 
 Which sample has the larger spread of observations?
