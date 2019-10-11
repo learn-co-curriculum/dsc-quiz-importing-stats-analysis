@@ -7,7 +7,7 @@ We recommend you **do not** use Python to answer these questions. Instead, based
 
 # Functions, methods, central tendency, and dispersion
 
-? Question 1  
+?: Question 1    
 
 
 Based on the following commands, what are `len` and `count`?
@@ -115,10 +115,10 @@ Out of the mean, median, and mode, which is most sensitive to outliers in the da
 
 The summary statistics for two samples of data are: 
 
-|   |Mean   |Variance   |
+|   |**Mean**   |**Variance**   |
 |---|---|---|
-|Sample 1|10   |5   |
-|Sample 2|10   |10   |
+|**Sample 1**|10   |5   |
+|**Sample 2**|10   |10   |
 
 
 Which sample has the larger spread of observations?
