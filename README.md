@@ -20,12 +20,13 @@ len(x)
 
 x.count(3)
 2
-```
+```   
+
 
 ( ) Keywords    
-( ) `len` is a method but `count` is a function   
-( ) Both are methods   
-( ) Both are functions   
+( ) `len` is a method but `count` is a function    
+( ) Both are methods    
+( ) Both are functions     
 (X) `len` is a function but `count` is a method    
 
 
@@ -35,7 +36,6 @@ x.count(3)
 What is the output of this code? 
 
 ```python
-
 sport = 'football'
 
 def greeting():
@@ -83,14 +83,12 @@ greater_number(7, 4)
 What is the output of this code? 
 
 ```python
-
 hours_open_remaining = 5
 pancakes = 0
 while hours_open_remaining > 0: 
     pancakes += 1
     hours_open_remaining -= 1
 print('{} pancakes eaten!'.format(pancakes))
-
 ```
 
 ( ) '6 pancakes eaten!'
