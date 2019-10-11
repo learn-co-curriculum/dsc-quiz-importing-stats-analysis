@@ -7,7 +7,10 @@ We recommend you **do not** use Python to answer these questions. Instead, based
 
 # Functions, methods, central tendency, and dispersion
 
-? Based on the following commands, what are `len` and `count`?
+? Question 1  
+
+
+Based on the following commands, what are `len` and `count`?
 
 ```python
 x = [1, 2, 3, 4, 2, 1, 3] 
@@ -26,7 +29,10 @@ x.count(3)
 (X) `len` is a function but `count` is a method    
 
 
-?: What is the output of this code? 
+?: Question 2  
+
+
+What is the output of this code? 
 
 ```python
 
@@ -46,7 +52,10 @@ print('Hello neighbor! Do you want to play {}?'.format(sport))
 (X) 'Hello neighbor! Do you want to play football?'
 
 
-?: The function `greater_number()` takes two arguments, `x` and `y`, and returns the greater between the two numbers. Fill in the blank to complete the function header. 
+?: Question 3  
+
+
+The function `greater_number()` takes two arguments, `x` and `y`, and returns the greater between the two numbers. Fill in the blank to complete the function header. 
 
 
 ```python
@@ -68,7 +77,10 @@ greater_number(7, 4)
 
 
 
-?: What is the output of this code? 
+?: Question 4  
+
+
+What is the output of this code? 
 
 ```python
 
@@ -88,22 +100,38 @@ print('{} pancakes eaten!'.format(pancakes))
 ( ) '4 pancakes eaten!'
 
 
-?: Out of the mean, median, and mode, which is most sensitive to outliers in the data?
+?: Question 5  
+
+
+Out of the mean, median, and mode, which is most sensitive to outliers in the data?
 
 ( ) Mode 
 ( ) Median
 (X) Mean
 
 
-?: The summary statistics for two samples of data are: 
+?: Question 6  
 
-#### Sample 1
 
-Mean = 10, Variance = 5
+The summary statistics for two samples of data are: 
 
-#### Sample 2
+**Sample 1**  
 
-Mean = 10, Variance = 10
+
+|Mean   |Variance   |
+|---|---|
+|10   |5   |
+
+
+
+**Sample 2**  
+
+
+|Mean   |Variance   |
+|---|---|
+|10   |10   |
+
+
 
 Which sample has the larger spread of observations?
 
