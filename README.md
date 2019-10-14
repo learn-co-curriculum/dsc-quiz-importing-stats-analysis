@@ -21,8 +21,7 @@ len(x)
 
 x.count(3)
 2
-```    
-
+```   
 
 
 ( ) Keywords    
@@ -30,8 +29,6 @@ x.count(3)
 ( ) Both are methods    
 ( ) Both are functions     
 (X) `len` is a function but `count` is a method       
-
-
 
 
 
@@ -50,6 +47,7 @@ def greeting():
 
 print('Hello neighbor! Do you want to play {}?'.format(sport))
 ```     
+
 
 ( ) 'Hello neighbor! Do you want to play badminton?'    
 ( ) An error    
