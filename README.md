@@ -14,12 +14,12 @@ Based on the following commands, what are `len` and `count`?
 
 
 ```python
-x = [1, 2, 3, 4, 2, 1, 3] 
+sample_list = [1, 2, 3, 4, 2, 1, 3] 
 
-len(x)
+len(sample_list)
 7
 
-x.count(3)
+sample_list.count(3)
 2
 ```   
 
